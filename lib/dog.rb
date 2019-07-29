@@ -1,7 +1,3 @@
-def person
-  
-end
-
-def person
+class Dog 
   
 end
